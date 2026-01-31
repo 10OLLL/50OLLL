@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "version": "2.2",
     "records": [
+         {
+            "user": "finniplays",
+            "link": "https://medal.tv/games/geometry-dash/clips/lZ1BmFpObXhVgQe6U?invite=cr-MSxoSUYsMzY5MjUzOTQw&tab=home",
+            "hz": "240",
+            "percent": 100
+        }
      ]
 }
