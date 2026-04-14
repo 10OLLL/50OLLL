@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "Nuridint3b",
+            "link": "https://discord.com/channels/1457972564801617998/1485334696165638194/1485334696165638194",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
