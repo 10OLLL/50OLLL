@@ -7,5 +7,11 @@
     "verification": "add later",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1457972564801617998/1552975738184011846/1552975738184011846",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
